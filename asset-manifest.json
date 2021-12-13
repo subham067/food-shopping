@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/food-shopping/static/css/main.a617e044.chunk.css",
+    "main.js": "/food-shopping/static/js/main.c7505858.chunk.js",
+    "main.js.map": "/food-shopping/static/js/main.c7505858.chunk.js.map",
+    "runtime-main.js": "/food-shopping/static/js/runtime-main.474ede06.js",
+    "runtime-main.js.map": "/food-shopping/static/js/runtime-main.474ede06.js.map",
+    "static/js/2.501ee06a.chunk.js": "/food-shopping/static/js/2.501ee06a.chunk.js",
+    "static/js/2.501ee06a.chunk.js.map": "/food-shopping/static/js/2.501ee06a.chunk.js.map",
+    "static/js/3.7d041498.chunk.js": "/food-shopping/static/js/3.7d041498.chunk.js",
+    "static/js/3.7d041498.chunk.js.map": "/food-shopping/static/js/3.7d041498.chunk.js.map",
+    "index.html": "/food-shopping/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/food-shopping/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.501ee06a.chunk.js.LICENSE.txt": "/food-shopping/static/js/2.501ee06a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/food-shopping/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.474ede06.js",
+    "static/js/2.501ee06a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c7505858.chunk.js"
+  ]
+}
